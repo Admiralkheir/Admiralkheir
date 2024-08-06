@@ -1,5 +1,5 @@
 # :wave:Hi, I'm Tugay!
-:bookmark_tabs: I have a degree in Computer Engineering from Sakarya University<br> 🔭 I’m currently working on [DeFacto](https://corporate.defacto.com.tr/index.html) as Software Developer, *System Analysis and Design* at Software Architecture Team <br>🌱 I’m currently learning DS&A and trying to solve some challenged leetcode problems<br>💬 Ask me about anything<br>
+:bookmark_tabs: I have a degree in Computer Engineering from Sakarya University<br> 🔭 I’m currently working on [DeFacto](https://corporate.defacto.com.tr/index.html) as Software Developer, *System Analysis and Design* at Software Architecture Team <br>🌱 I’m currently learning DS&A and trying to solve some challenged leetcode problems<br>💬 Ask me about my tech stack<br>
 
 
 ## 🌐 Socials:
